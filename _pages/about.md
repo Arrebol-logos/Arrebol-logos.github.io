@@ -46,10 +46,6 @@ Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, BEng in Information Security, Shanghai Jiao Tong University 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2023.09 - 2025.06 (now)*, intern in [ThinkLab](https://thinklab.sjtu.edu.cn/), China as an undergraduate student
 - *2024.06 - 2024.08*, intern in [Meituan](https://www.meituan.com/)
