@@ -36,6 +36,10 @@ My research interest includes natural language processing and time-series analys
 
 Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan
 
+- UP2ME is a general-purpose framework for Multivariate Time Series Analysis. It conducts taskagnostic pre-training when downstream tasks are unspecified. Once the task and setting (e.g. forecasting length) are determined, it gives sensible solutions with frozen pre-trained parameters. Further accuracy is achieved through multivariate fine-tuning.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2022.05* Finalist Prize in 2022 MCM
 
