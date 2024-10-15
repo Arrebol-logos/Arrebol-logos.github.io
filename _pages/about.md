@@ -29,16 +29,15 @@ My research interest includes natural language processing and time-series analys
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/UP2ME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/UP2ME.png' alt="sym" width="50%" style="max-width: 300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis]((https://icml.cc/virtual/2024/poster/33686))
+[UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis](https://icml.cc/virtual/2024/poster/33686)
 
 Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.05* Finalist Prize in 2022 MCM
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, BEng in Information Security, Shanghai Jiao Tong University 
