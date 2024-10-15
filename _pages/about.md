@@ -19,23 +19,22 @@ redirect_from:
 
 Welcome to my homepage!
 
-I'm a senior student majored in information security at the School of Electronic Information and Electrical Engineering of Shanghai Jiao Tong University(SJTU) and a member of Thinklab.
+I'm a senior student majored in information security at the School of Electronic Information and Electrical Engineering of Shanghai Jiao Tong University(SJTU) and an undergraduate member of Thinklab.
 
 My research interest includes natural language processing and time-series analysis.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Our work, UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis, was been accepted by ICML 2024. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis]((https://icml.cc/virtual/2024/poster/33686))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
