@@ -23,6 +23,14 @@ I'm a senior student majored in information security at the School of Electronic
 
 My research interest includes natural language processing and time-series analysis.
 
+# 📖 Educations
+- *2021.09 - 2025.06 (now)*, BEng in Information Security, Shanghai Jiao Tong University 
+
+# 💻 Internships
+- *2023.09 - 2025.06 (now)*, intern in [ThinkLab](https://thinklab.sjtu.edu.cn/), China as an undergraduate student
+- *2024.06 - 2024.08*, intern in [Meituan](https://www.meituan.com/)
+- *2022.06 - 2023.09*, intern in [NSEC Lab](https://nsec.sjtu.edu.cn/), China as an undergraduate student
+
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our work, UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis, was been accepted by ICML 2024. 
@@ -43,10 +51,3 @@ Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan
 # 🎖 Honors and Awards
 - *2022.05* Finalist Prize in 2022 MCM
 
-# 📖 Educations
-- *2021.09 - 2025.06 (now)*, BEng in Information Security, Shanghai Jiao Tong University 
-
-# 💻 Internships
-- *2023.09 - 2025.06 (now)*, intern in [ThinkLab](https://thinklab.sjtu.edu.cn/), China as an undergraduate student
-- *2024.06 - 2024.08*, intern in [Meituan](https://www.meituan.com/)
-- *2022.06 - 2023.09*, intern in [NSEC Lab](https://nsec.sjtu.edu.cn/), China as an undergraduate student
